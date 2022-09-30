@@ -5,6 +5,6 @@ import java.io.File;
 
 public class Project1 {
   public void test(HttpServletRequest req) {
-	new File(req.getParameter("foo"));
-   }
+	  //new File(req.getParameter("foo"));
+  }
 }
